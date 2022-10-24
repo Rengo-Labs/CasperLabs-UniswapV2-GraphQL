@@ -1,0 +1,9 @@
+/node_modules
+/Scripts/ERC20/keys
+/Scripts/FACTORY/keys
+/Scripts/PAIR/keys
+<<<<<<< HEAD
+/Scripts/ROUTER/keys
+=======
+/Scripts/ROUTER/keys
+>>>>>>> 6e70806f8a510650d737d0cfc5d50ac404a158e3
